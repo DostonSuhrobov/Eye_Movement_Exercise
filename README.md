@@ -1,6 +1,6 @@
 # Eye_Movement_Exercise
 
-Eye Movement Exercise is project assignment given by MIT xPro for development of the javascript development and DOM control skills.
+Eye Movement Exercise is project assignment given by MIT xPro for development of the javascript integration with HTML and CSS.
 This project is built on the basis following languages : 
 - HTML 
 - Javascript ( mainly used for eyeball-control
